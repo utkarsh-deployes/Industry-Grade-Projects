@@ -50,7 +50,8 @@ This repository is intended for:
 
 ## Available Role-Based Project Guides
 
-![IGP Jobs](assets\jobs.png)
+![Jobs](assets/jobs.png)
+
 
 
 Each role below links to a dedicated page containing **industry-grade, hireable project ideas**, complete with architecture, implementation guidance, and resume-ready impact.
