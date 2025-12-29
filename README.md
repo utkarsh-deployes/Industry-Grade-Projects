@@ -1,7 +1,6 @@
 # Industry-Grade Projects
 
-Projects that actually get you hired.  
-Not college clones. Not tutorials.
+![ArcLane Banner](./assets/banner.png)
 
 Industry-Grade Projects is a curated collection of hireable, real-world software project blueprints that reflect how products are built in professional engineering teams. These projects are designed to demonstrate practical skills, system thinking, and production-level decision-making across modern technology roles.
 
@@ -49,20 +48,52 @@ This repository is intended for:
 
 ---
 
-## Domains Covered
+## Available Role-Based Project Guides
 
-The project blueprints span multiple roles and career paths, including:
-- Full Stack Development
-- Backend Engineering (Java, Node, scalable APIs)
-- Cloud and DevOps
-- Data Engineering
-- Data Analytics
-- Data Science
-- Machine Learning
-- AI Engineering
-- Blockchain and distributed systems
+Each role below links to a dedicated page containing **industry-grade, hireable project ideas**, complete with architecture, implementation guidance, and resume-ready impact.
 
-The repository is designed to expand as the industry evolves.
+- **[Full Stack Developer](./Projects/Full-Stack-Developer.md)**  
+  End-to-end, production-ready applications that demonstrate system ownership and real workflows.
+
+- **[Backend Engineer](./Projects/Backend-Engineer.md)**  
+  Scalable APIs, data modeling, business logic, and backend system design.
+
+- **[Cloud & DevOps Engineer](./Projects/Cloud-DevOps.md)**  
+  Infrastructure, deployment pipelines, monitoring, and production operations.
+
+- **[Data Analyst](./Projects/Data-Analyst.md)**  
+  Business-driven analytics projects focused on insights, not dashboards alone.
+
+- **[Machine Learning Engineer](./Projects/ML-Engineer.md)**  
+  End-to-end ML systems covering data, models, deployment, and evaluation.
+
+More roles will be added as the repository evolves.
+
+---
+
+## Repository Structure
+
+```
+Industry-Grade-Projects/
+│
+├── README.md
+│
+├── Projects/
+│   ├── Full-Stack-Developer.md
+│   ├── Backend-Engineer.md
+│   ├── Cloud-DevOps.md
+│   ├── Data-Analyst.md
+│   └── ML-Engineer.md
+│
+├── docs/
+│   ├── how-to-choose-projects.md
+│   ├── project-template.md
+│   └── resume-bullets-guide.md
+│
+├── CONTRIBUTING.md
+├── CODE_OF_CONDUCT.md
+└── LICENSE
+```
 
 ---
 
@@ -92,11 +123,12 @@ These examples reflect the type of work companies expect engineers to understand
 
 ## How to Use This Repository
 
-1. Identify the role or domain you are targeting
-2. Select one or two projects relevant to that role
-3. Build the project end-to-end with attention to design decisions
-4. Use the provided resume bullets as a reference for impact-driven writing
-5. Prepare to explain architectural choices and trade-offs during interviews
+1. Identify the role you are targeting
+2. Open the corresponding role guide
+3. Select one or two projects relevant to your goals
+4. Build the project end-to-end with attention to design decisions
+5. Use the provided resume bullets as a reference for impact-driven writing
+6. Prepare to explain architectural choices and trade-offs during interviews
 
 Quality matters more than quantity.
 
@@ -108,10 +140,10 @@ This repository welcomes thoughtful contributions that maintain its quality bar.
 
 You can contribute by:
 - Adding new industry-grade project blueprints
-- Improving existing project documentation
+- Improving existing role guides
 - Sharing real-world insights from professional experience
 
-Please read the contributing guidelines before opening a pull request.
+Please read `CONTRIBUTING.md` before opening a pull request.
 
 ---
 
