@@ -1,6 +1,6 @@
-# Industry-Grade Projects
+# Industry-Grade-Projects [IGP]
 
-![ArcLane Banner](./assets/banner.png)
+![IGP Banner](./assets/banner.png)
 
 Industry-Grade Projects is a curated collection of hireable, real-world software project blueprints that reflect how products are built in professional engineering teams. These projects are designed to demonstrate practical skills, system thinking, and production-level decision-making across modern technology roles.
 
@@ -49,6 +49,9 @@ This repository is intended for:
 ---
 
 ## Available Role-Based Project Guides
+
+![IGP Jobs](assets\jobs.png)
+
 
 Each role below links to a dedicated page containing **industry-grade, hireable project ideas**, complete with architecture, implementation guidance, and resume-ready impact.
 
